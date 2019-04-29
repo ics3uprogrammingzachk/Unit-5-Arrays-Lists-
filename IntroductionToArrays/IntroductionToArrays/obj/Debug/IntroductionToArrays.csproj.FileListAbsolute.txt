@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\bin\Debug\IntroductionToArrays.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\bin\Debug\IntroductionToArrays.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\bin\Debug\IntroductionToArrays.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.IntroductionToArraysForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\IntroductionToArrays\IntroductionToArrays\obj\Debug\IntroductionToArrays.pdb

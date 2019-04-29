@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.FindMaxValueForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\bin\Debug\FindMaxValue.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\bin\Debug\FindMaxValue.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\bin\Debug\FindMaxValue.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMaxValue\FindMaxValue\obj\Debug\FindMaxValue.pdb
