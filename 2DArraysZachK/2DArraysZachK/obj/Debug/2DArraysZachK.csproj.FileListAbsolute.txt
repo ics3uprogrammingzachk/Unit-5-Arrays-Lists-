@@ -1,0 +1,10 @@
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\bin\Debug\2DArraysZachK.exe.config
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\bin\Debug\2DArraysZachK.exe
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\bin\Debug\2DArraysZachK.pdb
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\2DArraysZachK.csprojAssemblyReference.cache
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\_2DArraysZachK.frm2DArrays.resources
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\_2DArraysZachK.Properties.Resources.resources
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\2DArraysZachK.csproj.GenerateResource.cache
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\2DArraysZachK.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\2DArraysZachK.exe
+C:\Users\Zach\ICS3U\2DArraysZachK\2DArraysZachK\obj\Debug\2DArraysZachK.pdb

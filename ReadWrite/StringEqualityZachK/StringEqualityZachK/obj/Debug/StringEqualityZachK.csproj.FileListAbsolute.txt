@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\bin\Debug\StringEqualityZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\bin\Debug\StringEqualityZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\bin\Debug\StringEqualityZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.StringEqualityForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 4 (Procedures & Functions)\StringEqualityZachK\StringEqualityZachK\obj\Debug\StringEqualityZachK.pdb

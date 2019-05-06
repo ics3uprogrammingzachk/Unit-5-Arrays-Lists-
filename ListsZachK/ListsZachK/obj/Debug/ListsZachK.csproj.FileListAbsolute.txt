@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\bin\Debug\ListsZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\bin\Debug\ListsZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\bin\Debug\ListsZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.ListsForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\ListsZachK\ListsZachK\obj\Debug\ListsZachK.pdb

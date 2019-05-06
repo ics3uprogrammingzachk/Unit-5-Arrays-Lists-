@@ -29,7 +29,8 @@
         private void InitializeComponent()
         {
             this.btnStart = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lstNumbers = new System.Windows.Forms.ListBox();
+            this.lblAnswer = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnStart
@@ -42,23 +43,33 @@
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
-            // textBox1
+            // lstNumbers
             // 
-            this.textBox1.Location = new System.Drawing.Point(92, 72);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 1;
+            this.lstNumbers.FormattingEnabled = true;
+            this.lstNumbers.Location = new System.Drawing.Point(85, 72);
+            this.lstNumbers.Name = "lstNumbers";
+            this.lstNumbers.Size = new System.Drawing.Size(120, 134);
+            this.lstNumbers.TabIndex = 1;
+            // 
+            // lblAnswer
+            // 
+            this.lblAnswer.AutoSize = true;
+            this.lblAnswer.Location = new System.Drawing.Point(82, 228);
+            this.lblAnswer.Name = "lblAnswer";
+            this.lblAnswer.Size = new System.Drawing.Size(13, 13);
+            this.lblAnswer.TabIndex = 2;
+            this.lblAnswer.Text = "?";
             // 
             // FindMinValueForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lblAnswer);
+            this.Controls.Add(this.lstNumbers);
             this.Controls.Add(this.btnStart);
             this.Name = "FindMinValueForm";
-            this.Text = "Form1";
+            this.Text = "Find The Min Value";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -67,7 +78,8 @@
         #endregion
 
         private System.Windows.Forms.Button btnStart;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ListBox lstNumbers;
+        private System.Windows.Forms.Label lblAnswer;
     }
 }
 

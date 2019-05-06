@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\bin\Debug\FindMinValue.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\bin\Debug\FindMinValue.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\bin\Debug\FindMinValue.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.FindMinValueForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FindMinValue\FindMinValue\obj\Debug\FindMinValue.pdb
