@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\bin\Debug\FileReadAndWrite.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.FileReadForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 5 (Arrays & Lists)\FileReadAndWrite\FileReadAndWrite\obj\Debug\FileReadAndWrite.pdb
